@@ -1,0 +1,3 @@
+﻿  Homework-1.cpp
+D:\Projects\Homework-1\Homework-1\Homework-1.cpp(35,30): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+  Homework-1.vcxproj -> D:\Projects\Homework-1\Debug\Homework-1.exe
