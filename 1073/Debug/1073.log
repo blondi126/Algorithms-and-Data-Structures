@@ -1,0 +1,4 @@
+﻿  1073.cpp
+D:\Projects\Homework-3\1073\1073.cpp(9,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Projects\Homework-3\1073\1073.cpp(18,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  1073.vcxproj -> D:\Projects\Homework-3\Debug\1073.exe

@@ -1,5 +1,0 @@
-﻿  1752.cpp
-D:\Projects\Homework-2\1752\1752.cpp(22,14): error C2371: q: переопределение; различные базовые типы
-D:\Projects\Homework-2\1752\1752.cpp(13): message : см. объявление "q"
-D:\Projects\Homework-2\1752\1752.cpp(31,26): error C2065: g: необъявленный идентификатор
-D:\Projects\Homework-2\1752\1752.cpp(32,13): error C2065: g: необъявленный идентификатор
